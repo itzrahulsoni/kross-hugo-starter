@@ -5,3 +5,13 @@ image = ""
 title = "Some text"
 
 +++
+# yo there!
+
+## something fancy needs to be done
+
+* what
+* is 
+* going
+* on?
+
+![yo babay!!](/images/illustrations/leaf-bg-top.svg "some title")
